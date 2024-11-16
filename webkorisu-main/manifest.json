@@ -1,0 +1,30 @@
+{
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "webkorisu is an opensource platformer with squirrels.",
+    "display": "fullscreen",
+    "name": "webkorisu",
+    "orientation": "landscape",
+    "short_name": "webkorisu",
+    "start_url": "./",
+    "scope": ".",
+    "categories": ["games"],
+    "screenshots": [
+        {
+            "src": "docs/gameplay.webp",
+            "sizes": "768x432",
+            "type": "image/webp",
+            "platform": "wide",
+            "label": "gameplay"
+          }],
+    "icons": [{
+        "src": "favicon.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "favicon512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }]
+}

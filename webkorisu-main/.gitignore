@@ -1,0 +1,29 @@
+# Eclipse
+.classpath
+.project
+.settings
+
+
+# IntelliJ
+out
+.idea
+*.ipr
+*.iws
+*.iml
+atlassian-ide-plugin.xml
+
+# Netbeans
+nbproject/private/
+
+# Krita
+*.kra
+
+# Gimp
+*.xcf
+
+# Libresprite
+*.ase
+
+# Tiled
+*~
+

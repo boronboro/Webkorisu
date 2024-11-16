@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+#game {
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    height: 56.25vw;
+    width: 100vw;
+    max-height: 100vh;
+    max-width: 177.78vh;
+    image-rendering: pixelated;
+    touch-action: none;
+    user-select: none;
+}
